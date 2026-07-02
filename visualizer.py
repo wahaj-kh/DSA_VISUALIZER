@@ -95,7 +95,7 @@ def main_menu():
         print("   DSA ALGORITHMIC VISUALIZER SYSTEM     ")
         print("=========================================")
         print("1. Visualize Bubble Sort")
-        print("2. Visualize Binary Search (Coming Soon)")
+        print("2. Visualize Binary Search")
         print("3. Exit Program")
         print("=========================================")
         
